@@ -1,0 +1,4 @@
+1.Next Permutation
+2.Power Set/Subsequence
+3.Combination Sum
+4. Sort Array of 0,1 and 2s
