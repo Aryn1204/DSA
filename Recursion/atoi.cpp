@@ -27,5 +27,5 @@ int main() {
     //     ans+=pow(10,i)*curr;
     // }
     // cout<<"The integer value is "<<ans<<endl;
-    // return 0;
+     return 0;
 }
